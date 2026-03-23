@@ -14,7 +14,11 @@ The goal of this project is to analyze financial data and extract meaningful ins
 
 ## 📈 Key Insights
 - (Add your insights here after analysis)
-
+- Total revenue generated from the dataset is high compared to overall costs.
+- Profit is positive, indicating a sustainable business model.
+- Certain payment methods are used more frequently than others.
+- Discounts have a noticeable impact on overall revenue.
+- Delivery costs contribute significantly to total expenses.
 ## 🛠 Tools Used
 - SQL
 
