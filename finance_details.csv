@@ -1,0 +1,16 @@
+﻿order_date,city,category,customer_id,units_sold,revenue,cost,discount,delivery_cost,payment_method
+05-01-2024,Mumbai,Electronics,C101,2,12000,9500,500,300,UPI
+06-01-2024,Delhi,Fashion,C102,3,4500,2500,200,150,COD
+07-01-2024,Bangalore,Beauty,C103,5,3000,1800,100,200,Card
+08-01-2024,Mumbai,Fashion,C104,2,4000,2200,150,100,UPI
+10-01-2024,Chennai,Electronics,C105,1,15000,12000,800,400,Card
+11-01-2024,Delhi,Beauty,C106,4,2500,1400,100,150,UPI
+12-01-2024,Bangalore,Electronics,C107,2,10000,8500,300,350,COD
+13-01-2024,Mumbai,Beauty,C108,6,3500,2000,150,250,Card
+14-01-2024,Chennai,Fashion,C109,3,5000,3000,200,200,UPI
+15-01-2024,Delhi,Electronics,C110,1,20000,16000,1000,500,Card
+16-01-2024,Bangalore,Fashion,C111,2,6000,3500,300,200,UPI
+17-01-2024,Mumbai,Electronics,C112,1,18000,14000,900,400,COD
+18-01-2024,Chennai,Beauty,C113,4,2800,1600,120,150,UPI
+19-01-2024,Delhi,Fashion,C114,5,7000,4000,350,250,Card
+20-01-2024,Bangalore,Beauty,C115,3,3200,1900,150,180,COD
